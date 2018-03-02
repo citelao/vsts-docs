@@ -1,3 +1,4 @@
+
 ---
 title: Query fields, operators, and macros/variables 
 titleSuffix: VSTS & TFS
